@@ -1,0 +1,63 @@
+{
+    "motivation": [
+        {
+          "text": "Looking good today!",
+          "image": "images/m001.jpg"
+        },
+        {
+          "text": "You only fail, when you stop trying",
+          "image": "images/m002.jpg"
+        },
+        {
+          "text": "Be the reason someone smiles today.",
+          "image": "images/m003.jpg"
+        },
+        {
+          "text": "Failure is not the opposite of success, it's part of success.",
+          "image": "images/m004.jpg"
+        },
+        {
+          "text": "So many people love you. Don't focus on the people who don't.",
+          "image": "images/m005.jpg"
+        }
+    ],
+    "demotivation": [
+        {
+            "text": "It will probably get worse...",
+            "image": "images/d001.jpg"
+        },
+        {
+            "text": "Always believe that something WONDERFUL will never happen.",
+            "image": "images/d002.jpg"
+        },
+        {
+            "text": "Those who doubt your ABILITY probably have a valid REASON.",
+            "image": "images/d003.jpg"
+        },
+        {
+            "text": "If life doesn't break you today, don't worry, it will try again tomorrow.",
+            "image": "images/d004.png"
+        },
+        {
+            "text": "You can be replaced.",
+            "image": "images/d005.jpg"
+        }
+    ],
+    "cute": [
+        {
+          "image": "images/c001.jpg"
+        },
+        {
+          "image": "images/c002.png"
+        },
+        {
+          "image": "images/c003.jpg"
+        },
+        {
+          "image": "images/c004.jpg"
+        },
+        {
+          "image": "images/c005.jpg"
+        }
+    ]
+}
